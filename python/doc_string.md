@@ -1,4 +1,4 @@
-# Python Doc-string 정리 문서
+# Python Doc-string (문서화) 정리
 
 python을 이용한 프로젝트에서 사용할 python 코드의 문서화 작업관련 사항 정리 및 예시
 
