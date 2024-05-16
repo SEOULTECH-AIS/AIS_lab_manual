@@ -1,8 +1,12 @@
 # 아나콘다 기본 사용 메뉴얼
 
 ## 목차
-[Anaconda 이해와 설치]()
+1. 가상환경 이해와 Anaconda 기본 사용법
+    
+    [(1) 가상환경 이해와 Anaconda 설치](./env_basicment.md)
 
-[Anaconda 기본 명령어]()
+    [(2) Anaconda 기초 명령어 - create](./env_create.md)
 
-[Anaconda 환경 관리](./env_management.md)
+2. Anaconda 주요 사용법
+
+    [Anaconda 환경변수 관리](./env_variable_management.md)
