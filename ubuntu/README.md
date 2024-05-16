@@ -1,16 +1,17 @@
 # Ubuntu 기본 사용 메뉴얼
 
 ## 목차
-[Ubuntu 설치]()
+1. Ubuntu의 이해와 설치
 
-[Ubuntu 기본 개념]()
+    [(1) Ubuntu 기본 개념]()
 
-Ubuntu 관리
+    [(2) Ubuntu 설치]()
 
-- [파티션](./env_management.md)
 
-- [마운트](./env_management.md)
+2. Ubuntu 관리
 
-- [네트워크 관련 설정](./env_management.md)
+    - [파티션](./env_management.md)
 
-[Ubuntu 사용]()
+    - [마운트](./env_management.md)
+
+    - [네트워크 관련 설정](./env_management.md)
