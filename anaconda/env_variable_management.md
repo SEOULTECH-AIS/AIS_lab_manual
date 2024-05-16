@@ -1,6 +1,4 @@
-# Anaconda 환경 관리
-
-## 가상환경 환경변수 관리
+# Anaconda 환경변수 관리
 
 가상환경에서 사용하고자 하는 환경 변수를 미리 설정하여, conda 명령어에 동기화되어 자동으로 처리하는 기능을 제공함. <br/>
 이때 명령어에 따라 실행되는 스크립트 파일 위치는 다음과 같음.<br/>
@@ -22,7 +20,7 @@ Linux 시스템에 구성된 가상환경 `learning_base`에서 사용하려는 
 | `conda deactivate`   | [`unset_cuda_path.sh`](./script/unset_cuda_path.sh) |
 
 
-### 명령어
+### Bash script
 
 ```bash
 conda activate learning_base
@@ -39,4 +37,4 @@ cp unset_cuda_path.sh $CONDA_PREFIX/etc/conda/deactivate.d/unset_cuda_path.sh
 
 
 ------------------------------------------------------------------------------------------------------------
-[이전 페이지](.)
+이전페이지 / [목차](./README.md) / 다음 페이지
