@@ -23,8 +23,8 @@
 
 1. Conda 기반 가상환경 관리  
 
-    1) [conda 설치](./install/install%20and%20set%20path.md)
+    - [conda 설치](./install/install%20and%20set%20path.md)
 
-    2) [conda 가상환경 구성 및 관리]
+    - [conda 가상환경 구성 및 관리]
 
 2. Docker 기반 가상환경 관리
