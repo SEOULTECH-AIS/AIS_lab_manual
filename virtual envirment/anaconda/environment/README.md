@@ -1,7 +1,7 @@
 # 아나콘다 기본 사용 메뉴얼
 
 ## 목차
-1. 가상환경 이해와 Anaconda 기본 사용법
+1. conda 기본 사용법
     
     [(1) 가상환경 이해와 Anaconda 설치](./env_basicment.md)
 

@@ -1,4 +1,4 @@
-# Anaconda 기초 명령어 - create
+# conda 기초 명령어 - create
 
 가상환경 생성을 위한 명령어.
 
