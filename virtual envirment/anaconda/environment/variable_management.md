@@ -36,7 +36,7 @@ cp unset_cuda_path.sh $CONDA_PREFIX/etc/conda/deactivate.d/unset_cuda_path.sh
 ```
 
 ### 적용 결과
-![결과_이미지](./../img_source/saving_environment%20variable_000.png)
+![결과_이미지](./../../img_source/saving_environment_variable_000.png)
 
 
 ------------------------------------------------------------------------------------------------------------
