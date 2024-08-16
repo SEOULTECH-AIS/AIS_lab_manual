@@ -9,4 +9,4 @@
 
 2. Anaconda 주요 사용법
 
-    [Anaconda 환경변수 관리](./env_variable_management.md)
+    [Anaconda 환경변수 관리](./variable_management.md)

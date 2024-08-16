@@ -19,8 +19,8 @@ Linux 시스템에 구성된 가상환경 `learning_base`에서 사용하려는 
 
 | 명령어               | 스크립트 파일                                       |
 | -------------------- | --------------------------------------------------- |
-| `conda activate`     | [`set_cuda_path.sh`](./script/set_cuda_path.sh)     |
-| `conda deactivate`   | [`unset_cuda_path.sh`](./script/unset_cuda_path.sh) |
+| `conda activate`     | [`set_cuda_path.sh`](./../script/set_cuda_path.sh)     |
+| `conda deactivate`   | [`unset_cuda_path.sh`](./../script/unset_cuda_path.sh) |
 
 
 ### Bash script

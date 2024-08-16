@@ -12,7 +12,7 @@
 ### 단순 환경 생성
 
 ```bash
-conda create -n $env_name 
+conda create -n ${env_name} 
 ```
 
 ### 별도의 참조를 사용한 환경 생성
