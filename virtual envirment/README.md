@@ -14,17 +14,28 @@
 ### 사용 도구
 
 인공지능 모델 연구에서 주로 사용되는 python에 특화된 단순한 소프트웨어로 python 가상환경 지원 도구로 공식적으로 소개되는 pipenv가 존재함.  
-하지만 연구실 내에서 대부분 보다 단순하면서 필요한 기능 전부를 사용할 수 있는 `Anaconda` 또는 `miniconda`를 사용하고 있음.  
+하지만 연구실 내에서 대부분 보다 단순하면서 필요한 기능 전부를 사용할 수 있는 `Anaconda` 또는 `Miniconda`를 사용하고 있음.  
 일부 보다 엄격한 환경 구분과 다양한 기능이 필요 할 경우, 대부분의 필요를 충족 시킬 수 있는 `docker`를 사용하고 있음.
 
-따라서 `본 메뉴얼에서는 Anaconda 또는 miniconda / docker 2가지 경우에 대한 사용 및 관리 방법을 정리하고 있음.`
+따라서 `본 메뉴얼에서는 Anaconda / Miniconda 또는 docker 2가지 경우에 대한 사용 및 관리 방법을 정리하고 있음.`
 
-### 목차
+## 사용 메뉴얼 - Conda
 
-1. Conda 기반 가상환경 관리  
+### Conda 설치
 
-    - [conda 설치](./install/install%20and%20set%20path.md)
+- [conda 설치](./anaconda/install/01_install_and_path.md)
 
-    - [conda 가상환경 구성 및 관리]
+### Conda 명령어를 이용한 사용
 
-2. Docker 기반 가상환경 관리
+기본적으로 Conda 명령어는 Conda의 사용 목적에 맞게 가상환경을 구축하고 그것 또는 그것 내부를 관리하기 위하여 존재함.  
+따라서 본 메뉴얼에서는 이를 2개의 페이지로 각각을 `가상환경 생성과 관리`와 `패키지 설치와 관리`로 나누어 서술함
+
+- [가상환경 생성과 관리](./anaconda/environment/01_env_management.md)
+
+- [패키지 설치와 관리](./anaconda/environment/03.package_management.md)
+
+### Conda 자동화 기능을 이용한 사용
+
+- [Conda 자동화를 이용한 가상환경 변수 관리](./anaconda/environment/02_variable_management.md)
+
+## 사용 메뉴얼 - Docker
